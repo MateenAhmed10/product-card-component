@@ -1,6 +1,3 @@
-# Frontend Mentor - Product preview card component solution
-
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -14,6 +11,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 ## Overview
+
 This is the product card component challange from
 frontend mentor to test css and flexbox skills
 
@@ -28,11 +26,10 @@ Users should be able to:
 
 ![](./design/desktop-preview.jpg)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/used-css3-flexbox-to-make-card-responsive-0ERDGcV9yO)
+- Live Site URL: [Product Card](https://product-preview-card-0ced92.netlify.app/)
 
 ## My process
 I have used CSS3 flexbox
@@ -44,8 +41,6 @@ I have used CSS3 flexbox
 - Flexbox
 - Mobile-first workflow
 
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MateenAhmed10](https://www.frontendmentor.io/profile/MateenAhmed10)
